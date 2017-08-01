@@ -1,0 +1,64 @@
+why you are afraid , what you lecture about is what you are doing now.
+
+* TODO spacemacs way of programming
+** package
+different way of loading for efficient ok
+the good part is it already migrate all defualt for you 
+but when you come to costumize...
+** an spacemacs based system
+telegram bot 
+*** web layout
+implement from spacemacs and then to the extension
+**** loacal cache
+ so you dont need reload webpage 
+** a learning habit to set 
+[[ https://gitter.im/syl20bnr/spacemacs][gitter of spacemacs
+]]
+* TODO speech beginer spacemacs to info center?
+<2017-06-17 Sat>
+** TODO [[https://hackmd.io/c/Sy5EMAdg-/%252FOwQwHMBsAsDMCsBaATABjo6BGAJrRI8hiAnGGAEYggUCmAxlsrUA][Emacs.TW COSCUP 2017]]
+   SCHEDULED: <2017-06-26 Mon> DEADLINE: <2017-08-05 Sat>
+spacemacs for open source ?
+open source idea
+
+actually I just learned spacemacs here 
+
+從前有一個人原本用 Emacs，但後來卻跑去用 Vim 了，原因是他搞丟了他的 Emacs 設定檔 ，那個人叫做 Tim O'Reilly...
+*** DONE [[file:COSCUP-2017-intro.org][self introduction]]
+    CLOSED: [2017-06-23 Fri 21:22]
+*** DONE cloujore meetupof computer
+    CLOSED: [2017-07-24 Mon 01:52] SCHEDULED: <2017-06-28 Wed>
+spacemacs for open source ?
+
+actually I just learned spacemacs here 
+** TODO package
+   DEADLINE: <2017-06-17 Sat>
+   layer ?
+** TODO reading 
+   SCHEDULED: <2017-06-18 Sun>
+** kanban key word  
+** media center 
+** TODO publish
+
+*** website
+ b
+
+*** slides
+
+** sync 
+
+*** magit
+
+*** mobile solution
+** programming 
+*** [[https://realpython.com/blog/python/emacs-the-best-python-editor/][Emacs - the Best Python Editor?]]  
+*** command history
+** others 
+*** evil mode 
+    is reason good enough for your use
+** a note for spacemacs 
+*** margin 
+(add-hook 'org-mode-hook
+          (lambda () (setq truncate-lines nil)))
+*** flyspell err 
+   
