@@ -41,17 +41,19 @@ and then each different group
 ** ring?
 ** kanban key word  
 ** org-mode GTD workflow
-*** org-journal
 *** org-capture 
 *** projectile
 *** notes?
 *** sync with magit 
 ** open source to government
+*** apple
+[[https://technews.tw/2017/07/19/apple-cracking-down-on-vpn-based-ad-blockers-that-work-in-third-party-apps/][蘋果擬全面封殺 VPN 式 AdBlock]]
+[[https://www.macrumors.com/2017/07/14/apple-ad-blocking-app-crackdown/][Apple Cracking Down on VPN-Based Ad Blockers That Work in Third-Party Apps]]
+*** facebook 
 ** slides 
   [[https://github.com/yjwen/org-reveal][Reveal.js and Org-Reveal]] 
 *** how it works?
 *** margin
 *** theme
 ** publish through hexo and slide
-** python and bot develop 
 ** COSCUP here you are 
