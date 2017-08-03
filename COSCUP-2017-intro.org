@@ -1,3 +1,5 @@
+
+
 * 自學科學家系的日常入坑 spacemacs
 ** introduction 
  自學大學科學家系
@@ -22,16 +24,21 @@
 ** science , college to self-study 
 ** emacs community to spacemacs
 *** once orelly forget his emacs setting , now
+從前有一個人原本用 Emacs，但後來卻跑去用 Vim 了，原因是他搞丟了他的 Emacs 設定檔 ，那個人叫做 Tim O'Reilly...
+*** adobe font
+*** 自己開心最重要了，愛怎樣綁就怎樣綁
 ** passion and star ring 
 but everything has price 
 pay less could gain big
 and here is cram school
 and then each different group 
 ** ring?
+** kanban key word  
 ** org-mode GTD workflow
 *** org-journal
 *** org-capture 
-*** projectile 
+*** projectile
+*** notes?
 *** sync with magit 
 ** open source to government 
 ** publish through hexo and slide

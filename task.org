@@ -1,4 +1,3 @@
-why you are afraid , what you lecture about is what you are doing now.
 
 * TODO spacemacs way of programming
 ** package
@@ -16,14 +15,13 @@ implement from spacemacs and then to the extension
 ]]
 * TODO speech beginer spacemacs to info center?
 <2017-06-17 Sat>
-** TODO [[https://hackmd.io/c/Sy5EMAdg-/%252FOwQwHMBsAsDMCsBaATABjo6BGAJrRI8hiAnGGAEYggUCmAxlsrUA][Emacs.TW COSCUP 2017]]
+** [[https://hackmd.io/c/Sy5EMAdg-/%252FOwQwHMBsAsDMCsBaATABjo6BGAJrRI8hiAnGGAEYggUCmAxlsrUA][Emacs.TW COSCUP 2017]]
    SCHEDULED: <2017-06-26 Mon> DEADLINE: <2017-08-05 Sat>
 spacemacs for open source ?
 open source idea
 
 actually I just learned spacemacs here 
 
-從前有一個人原本用 Emacs，但後來卻跑去用 Vim 了，原因是他搞丟了他的 Emacs 設定檔 ，那個人叫做 Tim O'Reilly...
 *** DONE [[file:COSCUP-2017-intro.org][self introduction]]
     CLOSED: [2017-06-23 Fri 21:22]
 *** DONE cloujore meetupof computer
@@ -36,7 +34,6 @@ actually I just learned spacemacs here
    layer ?
 ** TODO reading 
    SCHEDULED: <2017-06-18 Sun>
-** kanban key word  
 ** media center 
 ** TODO publish
 
