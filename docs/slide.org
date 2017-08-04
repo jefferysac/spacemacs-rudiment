@@ -1,0 +1,72 @@
+
+#+Title: 自學科學家系的日常 入坑 spacemacs
+#+Author: jefferysac 
+#+Email: jeffery.sac@gmail.com
+#+OPTIONS: toc:nil num:nil	
+#+OPTIONS: reveal_width:1600
+#+OPTIONS: reveal_height:400
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 1.5
+#+OPTIONS: reveal_center:nil 
+#+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:t 
+#+REVEAL_HLEVEL: 2
+#+REVEAL_TRANS: default   
+#+REVEAL_THEME: black
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Title">
+* speech structure
+#+BEGIN_NOTES
+  Enter speaker notes here.
+#+END_NOTES
+** science , college to self-study 
+*** magic
+    魔法
+# 當初的中二少年為了獲得魔法才去研究科學，但是科學這東西實在太～魔幻了，四大元素力發出的光芒到，我們手上的魔法面板，而我們能成為操控它們的魔法使
+*** our education system "standard"
+*** default option college
+*** self-study college
+    - I choose how to use my resource 
+*** cafe shop
+*** internet study
+** org-mode GTD workflow
+*** notes?
+*** org-capture 
+*** kanban key word
+*** projectile
+*** sync with magit 
+** community to spacemacs
+*** emacs community 
+*** 自己開心最重要了，愛怎樣綁就怎樣綁
+#+ATTR_REVEAL: :frag frag-style
+*** testing 
+#+ATTR_REVEAL: :frag frag-style
+**** once there is a guy who start as emacser but end up in vim .reason is that he forget his emacs setting.
+#+ATTR_REVEAL: :frag frag-style
+     從前有一個人原本用 Emacs，但後來卻跑去用 Vim 了，原因是他搞丟了他的 Emacs 設定檔 ，
+**** 那個人叫做 Tim O'Reilly...
+
+     - [[http://archive.oreilly.com/pub/a/oreilly/ask_tim/1999/unix_editor.html][oreilly]]
+*** adobe font
+    + [[https://github.com/pakastin/open-source-flash][Petition to open source Flash and Shockwave spec]]
+** suspicious , paranoid doubt. 
+only half of what you hear is true. learning is to discover that and then to ignore the rest.
+** open source to government
+*** we need more resource  
+*** apple
+    [[https://technews.tw/2017/07/19/apple-cracking-down-on-vpn-based-ad-blockers-that-work-in-third-party-apps/][蘋果擬全面封殺 VPN 式 AdBlock]]
+    [[https://www.macrumors.com/2017/07/14/apple-ad-blocking-app-crackdown/][Apple Cracking Down on VPN-Based Ad Blockers That Work in Third-Party Apps]]
+*** facebook
+** publish through hexo 
+** slides 
+  [[https://github.com/yjwen/org-reveal][Reveal.js and Org-Reveal]] 
+*** how it works?
+*** margin
+*** theme
+** COSCUP here you are 
+** after 
+
+** passion and star ring 
+but everything has price 
+pay less could gain big
+and here is cram school
+and then each different group 

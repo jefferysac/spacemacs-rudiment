@@ -1,0 +1,8 @@
+* To Do Items
+** TODO readme.org to add
+ <2017-08-04 Fri 13:15>
+** TODO org published website with hexo 
+ <2017-08-04 Fri 12:40>
+** TODO keynote release on gihub
+ <2017-08-04 Fri 12:39>
+** TODO domain back
