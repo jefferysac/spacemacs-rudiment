@@ -15,53 +15,68 @@
 #+REVEAL_THEME: black
 #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Title">
 * speech structure
-#+BEGIN_NOTES
-  Enter speaker notes here.
-#+END_NOTES
-** science , college to self-study 
+** science , college to self-study college 
 *** magic
     魔法
-# 當初的中二少年為了獲得魔法才去研究科學，但是科學這東西實在太～魔幻了，四大元素力發出的光芒到，我們手上的魔法面板，而我們能成為操控它們的魔法使
-*** our education system "standard"
+    # 當初的中二少年為了獲得魔法才去研究科學，但是科學這東西實在太～魔幻了，
+*** 四大元素力組成的世界
+*** 用古代生物遺體飛行的鐵鳥
+*** 我們手上的魔法面板
+*** 還有操控它們的魔法使職位 AKA（工程師）
+*** I want to know how all it works 
 *** default option college
+*** our education system "standard"
+    當你放棄標準100分，無限知識的大門才會開啟
 *** self-study college
-    - I choose how to use my resource 
-*** cafe shop
-*** internet study
+    設計權大於選擇權
+    - I design how to use my resource 
+*** internet study subject
+** suspicious , paranoid doubt. 
+only half of what you hear is true. learning is to discover that and then to ignore the rest.
+or you gonna follow
 ** org-mode GTD workflow
-*** notes?
+*** evernotes?
+*** browser tabs
 *** org-capture 
 *** kanban key word
 *** projectile
+    [[https://github.com/IvanMalison/org-projectile][org-projectile]]
 *** sync with magit 
 ** community to spacemacs
-*** emacs community 
+*** cafe shop
+*** time emacs community knowledge ocean global warming and graph 
 *** 自己開心最重要了，愛怎樣綁就怎樣綁
-#+ATTR_REVEAL: :frag frag-style
-*** testing 
-#+ATTR_REVEAL: :frag frag-style
-**** once there is a guy who start as emacser but end up in vim .reason is that he forget his emacs setting.
-#+ATTR_REVEAL: :frag frag-style
-     從前有一個人原本用 Emacs，但後來卻跑去用 Vim 了，原因是他搞丟了他的 Emacs 設定檔 ，
-**** 那個人叫做 Tim O'Reilly...
 
-     - [[http://archive.oreilly.com/pub/a/oreilly/ask_tim/1999/unix_editor.html][oreilly]]
+*** once there is a guy who start as emacser but end up in vim .
+    從前有一個人原本用 Emacs，但後來卻跑去用 Vim 了
+**** reason is that he forget his emacs setting.
+     原因是他搞丟了他的 Emacs 設定檔 ，
+*** that guy is  Tim O'Reilly  
+    那個人叫做 Tim O'Reilly...
+   
+    - [[http://archive.oreilly.com/pub/a/oreilly/ask_tim/1999/unix_editor.html][I want to know what editor Tim O'Reilly uses: vi or emacs? Could you please tell us why?
+
+-- Chris
+]]
+*** spacemacs Crowd-Configured
+*** Mnemonic
+*** Discoverable
+*** Consistent
 *** adobe font
     + [[https://github.com/pakastin/open-source-flash][Petition to open source Flash and Shockwave spec]]
-** suspicious , paranoid doubt. 
-only half of what you hear is true. learning is to discover that and then to ignore the rest.
-** open source to government
-*** we need more resource  
-*** apple
-    [[https://technews.tw/2017/07/19/apple-cracking-down-on-vpn-based-ad-blockers-that-work-in-third-party-apps/][蘋果擬全面封殺 VPN 式 AdBlock]]
-    [[https://www.macrumors.com/2017/07/14/apple-ad-blocking-app-crackdown/][Apple Cracking Down on VPN-Based Ad Blockers That Work in Third-Party Apps]]
-*** facebook
+    + [[http://opensourceforu.com/2017/07/developers-ask-adobe-open-source-flash-player/][Developers ask Adobe to open source Flash Player]] 
 ** publish through hexo 
 ** slides 
   [[https://github.com/yjwen/org-reveal][Reveal.js and Org-Reveal]] 
 *** how it works?
 *** margin
 *** theme
+** open source to business and government
+*** apple
+    [[https://technews.tw/2017/07/19/apple-cracking-down-on-vpn-based-ad-blockers-that-work-in-third-party-apps/][蘋果擬全面封殺 VPN 式 AdBlock]]
+    [[https://www.macrumors.com/2017/07/14/apple-ad-blocking-app-crackdown/][Apple Cracking Down on VPN-Based Ad Blockers That Work in Third-Party Apps]]
+*** facebook
+*** we need more resource  
 ** COSCUP here you are 
 ** after 
 
