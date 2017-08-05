@@ -3,6 +3,7 @@
 #+Author: jefferysac 
 #+Email: jeffery.sac@gmail.com
 #+OPTIONS: toc:nil num:nil	
+#+REVEAL_ROOT:../reveal.js
 #+OPTIONS: reveal_width:1600
 #+OPTIONS: reveal_height:400
 #+REVEAL_MARGIN: 0.1
@@ -10,74 +11,81 @@
 #+REVEAL_MAX_SCALE: 1.5
 #+OPTIONS: reveal_center:nil 
 #+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:t 
-#+REVEAL_HLEVEL: 2
+#+REVEAL_HLEVEL: 1
 #+REVEAL_TRANS: default   
 #+REVEAL_THEME: black
 #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Title">
-* speech structure
-** science , college to self-study college 
-*** magic
-    魔法
-    # 當初的中二少年為了獲得魔法才去研究科學，但是科學這東西實在太～魔幻了，
-*** 四大元素力組成的世界
-*** 用古代生物遺體飛行的鐵鳥
-*** 我們手上的魔法面板
-*** 還有操控它們的魔法使職位 AKA（工程師）
-*** I want to know how all it works 
-*** default option college
-*** our education system "standard"
-    當你放棄標準100分，無限知識的大門才會開啟
-*** self-study college
-    設計權大於選擇權
-    - I design how to use my resource 
-*** internet study subject
-** suspicious , paranoid doubt. 
-only half of what you hear is true. learning is to discover that and then to ignore the rest.
-or you gonna follow
+* the world full of fantacy and amazing
+   這個世界充滿奇幻與不可思議
+** The iron bird aviate accross the sky 
+   用古代生物遺體飛行的鐵鳥
+** TODO The magical magic plate 我們手上的魔法面板
+** 還有操控它們的魔法使職位 AKA（工程師）
+** Just what we're used to in daily life is crazy enough 
+   我們的日常已經夠神奇了
+** but there is even more out there waits for use
+   但是還有更多在等著我們
+** I want to know how it works 
+** and that's what science for  
+* academy default option : college
+  學術預設選項 ：大學
+** persue science , college to self-study college
+   一路追尋 科學，大學，到自學大學
+** when you quit our education system "standard" , the gate to infinite knowledge unlock.
+   當你放棄標準100分，無限知識的大門才會開啟
+** self-study college right of design better than right of option.
+   設計權大於選擇權
+   - I design how to use my resource
+* community
+** time emacs community knowledge ocean global warming and graph 
+** SITCON and TDOH 
+** cafe shop
+** Mozilla
+** h4 
+* spacemacs's community 
+** 編輯器自己開心最重要了，愛怎樣綁就怎樣綁
+   About editor the most important thing is you are happy with , bind whatever you like. 
+** but once there is a guy who start as emacser but end up in vim .
+   從前有一個人原本用 Emacs，但後來卻跑去用 Vim 了
+*** reason is that he forget his emacs setting.
+    原因是他搞丟了他的 Emacs 設定檔 ，
+** that guy is  Tim O'Reilly  
+    那個人叫做 Tim O'Reilly...   
+    [[http://archive.oreilly.com/pub/a/oreilly/ask_tim/1999/unix_editor.html][I want to know what editor Tim O'Reilly uses: vi or emacs? Could you please tell us why?]]?
+
+** spacemacs Crowd-Configured
+** beginer friendly tutor  
+** Mnemonic
+** Discoverable
+** Consistent
+** adobe font
+   + [[https://github.com/pakastin/open-source-flash][Petition to open source Flash and Shockwave spec]]
+   + [[http://opensourceforu.com/2017/07/developers-ask-adobe-open-source-flash-player/][Developers ask Adobe to open source Flash Player]] 
+* project with spacemacs org mode  
 ** org-mode GTD workflow
 *** evernotes?
-*** browser tabs
-*** org-capture 
-*** kanban key word
-*** projectile
-    [[https://github.com/IvanMalison/org-projectile][org-projectile]]
-*** sync with magit 
-** community to spacemacs
-*** cafe shop
-*** time emacs community knowledge ocean global warming and graph 
-*** 自己開心最重要了，愛怎樣綁就怎樣綁
-
-*** once there is a guy who start as emacser but end up in vim .
-    從前有一個人原本用 Emacs，但後來卻跑去用 Vim 了
-**** reason is that he forget his emacs setting.
-     原因是他搞丟了他的 Emacs 設定檔 ，
-*** that guy is  Tim O'Reilly  
-    那個人叫做 Tim O'Reilly...
-   
-    - [[http://archive.oreilly.com/pub/a/oreilly/ask_tim/1999/unix_editor.html][I want to know what editor Tim O'Reilly uses: vi or emacs? Could you please tell us why?
-
--- Chris
-]]
-*** spacemacs Crowd-Configured
-*** Mnemonic
-*** Discoverable
-*** Consistent
-*** adobe font
-    + [[https://github.com/pakastin/open-source-flash][Petition to open source Flash and Shockwave spec]]
-    + [[http://opensourceforu.com/2017/07/developers-ask-adobe-open-source-flash-player/][Developers ask Adobe to open source Flash Player]] 
-** publish through hexo 
+** browser tabs
+** org-capture 
+** kanban key word
+** projectile
+   [[https://github.com/IvanMalison/org-projectile][org-projectile]]
+** sync with magit 
 ** slides 
   [[https://github.com/yjwen/org-reveal][Reveal.js and Org-Reveal]] 
 *** how it works?
 *** margin
 *** theme
-** open source to business and government
-*** apple
-    [[https://technews.tw/2017/07/19/apple-cracking-down-on-vpn-based-ad-blockers-that-work-in-third-party-apps/][蘋果擬全面封殺 VPN 式 AdBlock]]
-    [[https://www.macrumors.com/2017/07/14/apple-ad-blocking-app-crackdown/][Apple Cracking Down on VPN-Based Ad Blockers That Work in Third-Party Apps]]
-*** facebook
-*** we need more resource  
-** COSCUP here you are 
+
+* open source to business and government
+** apple
+   [[https://technews.tw/2017/07/19/apple-cracking-down-on-vpn-based-ad-blockers-that-work-in-third-party-apps/][蘋果擬全面封殺 VPN 式 AdBlock]]
+   [[https://www.macrumors.com/2017/07/14/apple-ad-blocking-app-crackdown/][Apple Cracking Down on VPN-Based Ad Blockers That Work in Third-Party Apps]]
+** facebook
+** we need more resource  
+* suspicious , paranoid doubt. 
+  only half of what you hear is true. learning is to discover that and then to ignore the rest.
+or you gonna follow
+* COSCUP here you are 
 ** after 
 
 ** passion and star ring 
