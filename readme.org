@@ -1,0 +1,3 @@
+[[https://jefferysac.github.io/spacemacs-rudiment/slide.html][COSCUP spacemacs speech slide 投影片]]
+
+[[https://www.youtube.com/watch?v=uKdDA-S-BQg&index=4&list=PLqfib4St70XOZt4e6XNiigzW9GI7iG-Iq][broadcast link 直播連接]]

@@ -15,15 +15,17 @@
 #+REVEAL_TRANS: default   
 #+REVEAL_THEME: black
 #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Title">
+
 * the world full of fantacy and amazing
    這個世界充滿奇幻與不可思議
 ** The iron bird aviate accross the sky 
    用古代生物遺體飛行的鐵鳥
 ** TODO The magical magic plate 我們手上的魔法面板
-** 還有操控它們的魔法使職位 AKA（工程師）
+** And wizard who manipulate magic AKA(engineer)
+   還有操控它們的魔法使職位 AKA（工程師）
 ** Just what we're used to in daily life is crazy enough 
    我們的日常已經夠神奇了
-** but there is even more out there waits for use
+** but there is even more out there waits for us
    但是還有更多在等著我們
 ** I want to know how it works 
 ** and that's what science for  
@@ -35,13 +37,15 @@
    當你放棄標準100分，無限知識的大門才會開啟
 ** self-study college right of design better than right of option.
    設計權大於選擇權
-   - I design how to use my resource
-* community
+* learn from community
 ** time emacs community knowledge ocean global warming and graph 
 ** SITCON and TDOH 
-** cafe shop
 ** Mozilla
 ** h4 
+** for a scientist , what does that means
+** internet increase cooperate 
+** as a self-study student what does that means
+** a learn enviroment encourge you to use knowledge
 * spacemacs's community 
 ** 編輯器自己開心最重要了，愛怎樣綁就怎樣綁
    About editor the most important thing is you are happy with , bind whatever you like. 
@@ -85,7 +89,13 @@
 * suspicious , paranoid doubt. 
   only half of what you hear is true. learning is to discover that and then to ignore the rest.
 or you gonna follow
+** fake news , yellow journalism 
+   [[https://www.youtube.com/watch?v=UIn33sDwKqQ][Film Theory: Is Fake News KILLING the Internet?]]
+** subscribe to support   
+   [[https://ncase.itch.io/wbwwb][WE BECOME WHAT WE BEHOLD]]
+** 
 * COSCUP here you are 
+** 
 ** after 
 
 ** passion and star ring 
