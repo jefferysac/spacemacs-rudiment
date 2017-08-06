@@ -20,9 +20,6 @@
    這個世界充滿奇幻與不可思議
 ** The iron bird aviate accross the sky 
    用古代生物遺體飛行的鐵鳥
-** TODO The magical magic plate 我們手上的魔法面板
-** And wizard who manipulate magic AKA(engineer)
-   還有操控它們的魔法使職位 AKA（工程師）
 ** Just what we're used to in daily life is crazy enough 
    我們的日常已經夠神奇了
 ** but there is even more out there waits for us
@@ -36,18 +33,14 @@
 ** when you quit our education system "standard" , the gate to infinite knowledge unlock.
    當你放棄標準100分，無限知識的大門才會開啟
 ** self-study college right of design better than right of option.
-   設計權大於選擇權
+   自學大學：設計權大於選擇權
 * learn from community
 ** time emacs community knowledge ocean global warming and graph
 ** SITCON and TDOH 
 ** Mozilla
-** h4 
+   [[https://github.com/jefferysac/_good-holes-to-jump][好坑不跳嗎]]
+** h4 hacking thursday 
 ** for a scientist , what does that means
-:PROPERTIES:
-:reveal_background: images/sci-hub-thumbnail.jpg
-:reveal_background_size: 300px 
-:reveal_background_trans: slide
-:END:
 ** internet increase cooperate 
 ** as a self-study student what does that means
 ** a learn enviroment encourge you to use knowledge
