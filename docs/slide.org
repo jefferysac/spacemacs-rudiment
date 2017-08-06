@@ -38,11 +38,16 @@
 ** self-study college right of design better than right of option.
    設計權大於選擇權
 * learn from community
-** time emacs community knowledge ocean global warming and graph 
+** time emacs community knowledge ocean global warming and graph
 ** SITCON and TDOH 
 ** Mozilla
 ** h4 
 ** for a scientist , what does that means
+:PROPERTIES:
+:reveal_background: images/sci-hub-thumbnail.jpg
+:reveal_background_size: 300px 
+:reveal_background_trans: slide
+:END:
 ** internet increase cooperate 
 ** as a self-study student what does that means
 ** a learn enviroment encourge you to use knowledge
@@ -58,34 +63,40 @@
     [[http://archive.oreilly.com/pub/a/oreilly/ask_tim/1999/unix_editor.html][I want to know what editor Tim O'Reilly uses: vi or emacs? Could you please tell us why?]]?
 
 ** spacemacs Crowd-Configured
-** beginer friendly tutor  
-** Mnemonic
-** Discoverable
-** Consistent
+** beginer friendly tutor and map 
+** Mnemonic 可記憶的
+** Discoverable 可發現的
+:PROPERTIES:
+:reveal_background: images/Arch-Thief_Rafaam.png
+:reveal_background_size: 600px 
+:reveal_background_trans: slide
+:END:
+
+** Consistent 一致性
 ** adobe font
    + [[https://github.com/pakastin/open-source-flash][Petition to open source Flash and Shockwave spec]]
    + [[http://opensourceforu.com/2017/07/developers-ask-adobe-open-source-flash-player/][Developers ask Adobe to open source Flash Player]] 
 * project with spacemacs org mode  
 ** org-mode GTD workflow
-*** evernotes?
+*** it was on evernotes
 ** browser tabs
-** org-capture 
+** quick note template org-capture 
 ** kanban key word
 ** projectile
    [[https://github.com/IvanMalison/org-projectile][org-projectile]]
 ** sync with magit 
 ** slides 
   [[https://github.com/yjwen/org-reveal][Reveal.js and Org-Reveal]] 
-*** how it works?
-*** margin
+*** reveal js framework
 *** theme
 
-* open source to business and government
+* thing are not always amazing and follow your way
+ [[https://m.signalvnoise.com/everything-is-possible-but-nothing-is-free-714b835e8db3][Everything is possible but nothing is free]] 
 ** apple
    [[https://technews.tw/2017/07/19/apple-cracking-down-on-vpn-based-ad-blockers-that-work-in-third-party-apps/][蘋果擬全面封殺 VPN 式 AdBlock]]
    [[https://www.macrumors.com/2017/07/14/apple-ad-blocking-app-crackdown/][Apple Cracking Down on VPN-Based Ad Blockers That Work in Third-Party Apps]]
 ** facebook
-** we need more resource  
+   [[https://www.theregister.co.uk/2017/07/17/apache_says_no_to_facebook_code_libraries/][Apache says 'no' to Facebook code libraries]]
 * suspicious , paranoid doubt. 
   only half of what you hear is true. learning is to discover that and then to ignore the rest.
 or you gonna follow
@@ -93,13 +104,5 @@ or you gonna follow
    [[https://www.youtube.com/watch?v=UIn33sDwKqQ][Film Theory: Is Fake News KILLING the Internet?]]
 ** subscribe to support   
    [[https://ncase.itch.io/wbwwb][WE BECOME WHAT WE BEHOLD]]
-** 
 * COSCUP here you are 
-** 
-** after 
-
-** passion and star ring 
-but everything has price 
-pay less could gain big
-and here is cram school
-and then each different group 
+** [[https://english4biologymajor.blogspot.tw/2017/07/symposium.html][研討會（symposium）原來是一起喝酒的趴踢]]
