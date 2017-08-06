@@ -35,7 +35,7 @@
 ** self-study college right of design better than right of option.
    自學大學：設計權大於選擇權
 * learn from community
-** time emacs community knowledge ocean global warming and graph
+** knowledge is like a global warning ocean
 ** SITCON and TDOH 
 ** Mozilla
    [[https://github.com/jefferysac/_good-holes-to-jump][好坑不跳嗎]]
@@ -70,6 +70,7 @@
    + [[https://github.com/pakastin/open-source-flash][Petition to open source Flash and Shockwave spec]]
    + [[http://opensourceforu.com/2017/07/developers-ask-adobe-open-source-flash-player/][Developers ask Adobe to open source Flash Player]] 
 * project with spacemacs org mode  
+** org pure data format 
 ** org-mode GTD workflow
 *** it was on evernotes
 ** browser tabs
@@ -97,5 +98,8 @@ or you gonna follow
    [[https://www.youtube.com/watch?v=UIn33sDwKqQ][Film Theory: Is Fake News KILLING the Internet?]]
 ** subscribe to support   
    [[https://ncase.itch.io/wbwwb][WE BECOME WHAT WE BEHOLD]]
-* COSCUP here you are 
+* COSCUP and all conference welcome every idea  
 ** [[https://english4biologymajor.blogspot.tw/2017/07/symposium.html][研討會（symposium）原來是一起喝酒的趴踢]]
+** 坑還很多，趕快來跳。
+* happy birthday to mI want to know what editor Tim O'Reilly uses: vi or emacs? Could you please tell us why?y dather
+the first supporter of my life

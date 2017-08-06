@@ -1,4 +1,6 @@
 * To Do Items
+** TODO spook 
+ <2017-08-06 Sun 13:44>
 ** REVIEW add reveal.js submodule to view on github 
  <2017-08-04 Fri 14:54>
 ** TODO readme.org to add
